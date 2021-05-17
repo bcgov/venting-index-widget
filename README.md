@@ -1,4 +1,4 @@
-# venting-index-widget [![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+# Ventilation Index data widget [![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 This widget allows your website to communicate the Smoke Control Forecast containing predictions of the Ventilation Index, to your website visitors.
 
 ## Documentation
