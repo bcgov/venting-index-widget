@@ -1,5 +1,9 @@
-# Ventilation Index data widget [![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+# Ventilation Index Forecast data widget [![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 This widget allows your website to communicate the Smoke Control Forecast containing predictions of the Ventilation Index, to your website visitors.
+
+## Who is this widget for?
+
+The widget is primarily designed for local governments and municipal authorities who communicate open burning by-laws that reference the Ventilation Index. The goal of this tool is to assist in communicating Venting Index data to their constituents.
 
 ## Documentation
 
@@ -18,14 +22,13 @@ js/             - CSV parsing jquery script
 vi-widget.html  - main HTML file to display and embed
 ```
 
-
 ## Deployment 
 
 Embed HTML file on your website using inline frame. See documentation 
 
 ## How to contribute
 
-If you would like to propose a component or edit to the widget, please see our [Propose a Component](.github/ISSUE_TEMPLATE/propose-a-new-component.md) guideline.
+If you would like to propose a component or edit to the widget, please see our [Propose a Component](CONTRIBUTING.md) guideline.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). 
 By participating in this project you agree to abide by its terms.
