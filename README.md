@@ -28,7 +28,7 @@ Embed HTML file on your website using inline frame. See documentation
 
 ## How to contribute
 
-If you would like to propose a component or edit to the widget, please see our [Propose a Component](CONTRIBUTING.md) guideline.
+If you would like to propose a component or edit to the widget, please see our [Contributing](CONTRIBUTING.md) guideline.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). 
 By participating in this project you agree to abide by its terms.
