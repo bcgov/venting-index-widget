@@ -7,6 +7,7 @@ TBD
 
 ## Files in this repository
 
+```
 css/            - Bootstrap CSS files
 images/         - Gov identity
 └── BCID_H_rgb_pos_200w.png
@@ -15,7 +16,7 @@ js/             - CSV parsing jquery script
 └── widget-vi.js        
 └── icons         
 vi-widget.html  - main HTML file to display and embed
-
+```
 
 
 ## Deployment 
