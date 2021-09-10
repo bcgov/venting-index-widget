@@ -1,0 +1,53 @@
+<!-- Copyright 2021 Province of British Columbia -->
+
+<!-- Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. -->
+
+<!doctype html>
+<html lang="en"> 
+  <head>
+    <meta charset="utf-8">
+    <title>Ventilation index widget - B.C. Air Quality - Province of British Columbia</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="dc.title" content="Ventilation Index Forecast widget - Province of British Columbia" />
+    <meta name="dc.description" content="Providing the latest Ventilation Index Forecast data for communities in BC." />
+    <meta name="dc.creator" content="Knowledge Management Branch, Ministry of Environment and Climate Change Strategy" />
+    <meta name="dc.date.created" content="December 20, 2020" />
+    <meta name="dc.date.modified" content="May 17, 2021" />
+    <meta name="author" content="Ministry of Environment and Climate Change Strategy" />
+    <title>Ventilation Index Forecast - B.C. Air Quality - Province of British Columbia</title>
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
+
+    <!-- Bootstrap core CSS v3.3.6 -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />  
+
+    <!-- Custom ENV CSS -->
+      <style> 
+      #vi-table tr:nth-child(4){}
+      #vi-table tr:nth-child(6){display: none;}      
+      #vi-table tbody>:nth-child(4){font-weight: bold;} 
+      th.row-title {background-color:#38598A;color:white;font-size:larger;}
+      th.column-label {width:35%; text-align: left;}
+      td.column-data {text-align: center;}
+      th.footer-content {font-weight:normal;text-align:center;}    
+      .footer-content {text-align:center;font-size: .9em;padding: 0px 5px 0px 5px}
+          .table {margin-bottom: 0px;}
+      </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="js/widget-vi.js"></script>
+    
+  </head>
+  <body>
+    <div class="content">
+      <div id="venting-index"></div>
+        <div class="footer-content">
+            <a href="https://gov.bc.ca/"><img src="images/BCID_H_rgb_pos_200w.png" alt="Government of B.C." /></a>
+            <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> This <a href="https://www2.gov.bc.ca/gov/content?id=A36B354AC84645A9AA83664702A00823" target="_blank">Ventilation Index Forecast widget</a> (BETA) is provided by the <strong>Ministry of Environment and Climate Change, Province of British Columbia</strong>. </p></div>    
+    </div>
+      
+  </body>
+    
+</html>
