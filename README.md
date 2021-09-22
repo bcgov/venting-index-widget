@@ -7,7 +7,7 @@ The widget is primarily designed for local governments and municipal authorities
 
 ## Documentation
 
-TBD
+Documentation available on the [Venting Index Forecast data widget page](https://www2.gov.bc.ca/gov/content?id=A36B354AC84645A9AA83664702A00823).
 
 ## Files in this repository
 
@@ -24,11 +24,15 @@ vi-widget.html  - main HTML file to display and embed
 
 ## Deployment 
 
-Embed HTML file on your website using inline frame. See documentation 
+Embed HTML file on your website using inline frame. [See documentation](https://www2.gov.bc.ca/gov/content?id=A36B354AC84645A9AA83664702A00823). 
+
+## Data widget disclaimer and terms of use
+
+TBD
 
 ## How to contribute
 
-If you would like to propose a component or edit to the widget, please see our [Contributing](CONTRIBUTING.md) guideline.
+If you would like to propose a component or edit to the widget, please see our [Contributing guideline](CONTRIBUTING.md).
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). 
 By participating in this project you agree to abide by its terms.
