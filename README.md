@@ -29,7 +29,13 @@ Embed HTML file on your website using inline frame. [See documentation](https://
 
 ## Data widget disclaimer and terms of use
 
-TBD
+Your use of the Ventilation Index Forecast data widget on your website does not indicate any form of endorsement or approval of your website by the Government of British Columbia (“British Columbia”).
+
+British Columbia may remove, cancel, or make changes to the widget at any time without notice. The widget is provided “as is”. British Columbia makes no warranty, whether express or implied, that the widget will not be uninterrupted or free from loss, corruption, attack, viruses, interference, hacking or other security intrusion. We strongly recommend that you consult with your organization's IT group before installing this widget.
+
+British Columbia is not liable for any errors or omissions in the data and information displayed on the widget, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by the use of the widget or otherwise arising in connection with the widget or the data and information displayed on the widget.
+
+For the most up to date and complete information concerning the Ventilation Index Forecast, including the official forecast required by the Open Burning Smoke Control Regulation, visit our [Ventilation Index web page](https://www2.gov.bc.ca/gov/content?id=7F7CA16CC6424216A06BE4A55EC98213).
 
 ## How to contribute
 
