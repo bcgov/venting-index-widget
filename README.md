@@ -25,7 +25,8 @@ vi-widget.html  - main HTML file to display and embed
 ## Deployment 
 
 The live data feed for all Ventilation Index Forecast zones is currently available in [CSV format](https://envistaweb.env.gov.bc.ca/aqo/files/VentingIndex-Widget.csv)
-Embed HTML file on your website using inline frame. [See documentation](https://www2.gov.bc.ca/gov/content?id=A36B354AC84645A9AA83664702A00823). 
+
+In this widget example, you can embed HTML file on your website using inline frame. [See documentation](https://www2.gov.bc.ca/gov/content?id=A36B354AC84645A9AA83664702A00823). 
 
 ## Data widget disclaimer and terms of use
 
